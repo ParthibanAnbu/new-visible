@@ -4,7 +4,7 @@ import org.springframework.web.servlet.support.AbstractAnnotationConfigDispatche
 
 import com.sts.configurations.HibernateConfigurations;
 import com.sts.configurations.WebMvcConfigurations;
-
+Test
 public class ApplicationInitializer extends AbstractAnnotationConfigDispatcherServletInitializer {
 	
 	@Override
